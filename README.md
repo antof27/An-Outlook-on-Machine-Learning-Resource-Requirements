@@ -1,6 +1,4 @@
-# An Outlook on Machine Learning Resource
-Requirements: Literature and Load Analysis Across
-Various Configurations
+# An Outlook on Machine Learning Resource Requirements: Literature and Load Analysis Across Various Configurations
 
 ## Abstract
 Nowadays Machine Learning and Deep Learning architectures have demon-
